@@ -26,8 +26,6 @@ body {
 }
 
 
-}
-
 header {
 	position: relative;
 	right: 570px;
@@ -40,18 +38,18 @@ p {
 	margin-left: 200px;
 	margin-right: 200px;	
 	font-family: 'Cherry Swash', cursive;
-	font-size: 44px;
-	color: red;
+	font-size: 36 px;
+	color: orange;
 
 }
 
 .footer {
-	text-align: center;
+	text-align: left;
 	margin-left: 170px;
 	margin-right: 200px;
 	margin-top: 125px;		
 	font-family: 'Cherry Swash', cursive;
-	font-size: 62px;
+	font-size: 44px;
 	
 }
 
