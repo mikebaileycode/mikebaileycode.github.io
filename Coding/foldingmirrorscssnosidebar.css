@@ -6,12 +6,11 @@ html { font-size:100%; }
 
 img { max-width: 100%; }
 
-/* Tablet Landscape */
 @media screen and (max-width: 1060px) {
     #primary { width:67%; }
     #secondary { width:30%; margin-left:3%;}  
 }
-/* Tablet Portrait */
+
 @media screen and (max-width: 768px) {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
@@ -41,6 +40,27 @@ p {
 	font-size: 36 px;
 	color: orange;
 
+}
+
+button {
+	background-color: transparent;
+	text-align: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;		
+	font-family: 'Cherry Swash', cursive;
+	font-size: 36px;
+
+}
+
+button {
+    -webkit-transition-duration: 2s; 
+    transition-duration: 2s;
+}
+
+button:hover {
+    background-color: #500707; 
+    color: white;
 }
 
 .footer {
