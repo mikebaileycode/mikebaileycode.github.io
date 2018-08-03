@@ -18,7 +18,7 @@ img { max-width: 100%; }
 }
 
 body {
-	 background-image: url("possbackgroundphoto4.gif");
+	 background-image: url("possbackgroundphoto.gif");
 	background-size: 100%;
 	margin-top: 0px;
 	min-width: 300px;
@@ -36,12 +36,12 @@ header {
 
 p {
 	
-	text-align: center;
+	text-align: justify-right;
 	margin-left: 200px;
 	margin-right: 200px;	
-	font-family: 'Righteous', cursive;
-	font-size: 24px;
-	color: #d30e0e;
+	font-family: 'Cherry Swash', cursive;
+	font-size: 44px;
+	color: red;
 
 }
 
@@ -50,9 +50,9 @@ p {
 	margin-left: 170px;
 	margin-right: 200px;
 	margin-top: 125px;		
-	font-family: 'Righteous', cursive;
-	font-size: 72px;
-	color: #d30e0e;   
+	font-family: 'Cherry Swash', cursive;
+	font-size: 62px;
+	
 }
 
 .bio {
@@ -71,7 +71,7 @@ p {
 
 #foldingmirrors {
 
-	top: 10px;
+	top: -10px;
     display: block;
     margin-top: 0px;
     margin-left: auto;
