@@ -17,22 +17,34 @@ img { max-width: 100%; }
 }
 
 body {
-	 background-image: url("possbackgroundphoto3.gif");
+	 background-image: url("possbackgroundphoto2.gif");
 	background-size: 100%;
 	margin-top: 0px;
 	min-width: 300px;
 
 }
 
-
 .about {
 	
 	text-align: center;
 	margin-left: 200px;
-	margin-right: 200px;	
+	margin-right: 0px;	
 	font-family: 'Cherry Swash', cursive;
 	font-size: 36 px;
 	color: red;
+
+}
+
+
+
+p {
+	
+	text-align: justify-right;
+	margin-left: 200px;
+	margin-right: 200px;	
+	font-family: 'Cherry Swash', cursive;
+	font-size: 36 px;
+	color: orange;
 
 }
 
@@ -43,7 +55,7 @@ button {
 	margin-right: 0px;
 	margin-top: 0px;		
 	font-family: 'Cherry Swash', cursive;
-	font-size: 28px;
+	font-size: 26px;
 
 }
 
@@ -57,14 +69,14 @@ button:hover {
     color: white;
 }
 
-.footer {
-	text-align: center;
-	margin-left: 170px;
-	margin-right: 200px;
-	margin-top: -190px;		
-	font-family: 'Cherry Swash', cursive;
-	font-size: 44px;
+.footerabout {
 	
+	text-align: center;
+	margin-left: 186px;
+	margin-right: 200px;
+	margin-top: -177px;		
+	font-family: 'Cherry Swash', cursive;
+	font-size: 24px;
 }
 
 .bio {
@@ -81,7 +93,7 @@ button:hover {
 
 
 #foldingmirrors {
-
+	
 	top: 30px;
     display: block;
     margin-top: 60px;
